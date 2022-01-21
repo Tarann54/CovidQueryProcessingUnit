@@ -1,2 +1,2 @@
 # Portfolio
-This repository shows all relevant CS projects that I have completed
+This repository shows Covid Dashboard Query Processing Unit to display COVID19 cases and deaths in different Texas counties
